@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179.csproj": {}
+    "C:\\Users\\Daisy\\Documents\\GitHub\\Questions\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179.csproj": {
+    "C:\\Users\\Daisy\\Documents\\GitHub\\Questions\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179.csproj",
+        "projectUniqueName": "C:\\Users\\Daisy\\Documents\\GitHub\\Questions\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179.csproj",
         "projectName": "CS - Abstract Class - Step 179",
-        "projectPath": "C:\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179.csproj",
+        "projectPath": "C:\\Users\\Daisy\\Documents\\GitHub\\Questions\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179.csproj",
         "packagesPath": "C:\\Users\\Daisy\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179\\obj\\",
+        "outputPath": "C:\\Users\\Daisy\\Documents\\GitHub\\Questions\\CS - Abstract Class - Step 179\\CS - Abstract Class - Step 179\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daisy\\AppData\\Roaming\\NuGet\\NuGet.Config",
